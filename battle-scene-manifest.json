@@ -1,0 +1,92 @@
+[
+  {
+    "id": "battle-01",
+    "image": "assets/scenes/battle-01.webp",
+    "chapter": 2,
+    "paragraph": 5,
+    "title": "Periphetes and the club",
+    "grid": "source_images\\battle-grid-01.png",
+    "row": 0,
+    "column": 0
+  },
+  {
+    "id": "battle-02",
+    "image": "assets/scenes/battle-02.webp",
+    "chapter": 2,
+    "paragraph": 6,
+    "title": "Sinis and the pine trees",
+    "grid": "source_images\\battle-grid-01.png",
+    "row": 0,
+    "column": 1
+  },
+  {
+    "id": "battle-03",
+    "image": "assets/scenes/battle-03.webp",
+    "chapter": 2,
+    "paragraph": 7,
+    "title": "Sciron on the cliff path",
+    "grid": "source_images\\battle-grid-01.png",
+    "row": 0,
+    "column": 2
+  },
+  {
+    "id": "battle-04",
+    "image": "assets/scenes/battle-04.webp",
+    "chapter": 2,
+    "paragraph": 8,
+    "title": "Stopping Procrustes",
+    "grid": "source_images\\battle-grid-01.png",
+    "row": 1,
+    "column": 0
+  },
+  {
+    "id": "battle-05",
+    "image": "assets/scenes/battle-05.webp",
+    "chapter": 4,
+    "paragraph": 15,
+    "title": "A shadow in the maze",
+    "grid": "source_images\\battle-grid-01.png",
+    "row": 1,
+    "column": 1
+  },
+  {
+    "id": "battle-06",
+    "image": "assets/scenes/battle-06.webp",
+    "chapter": 4,
+    "paragraph": 17,
+    "title": "The Minotaur charges",
+    "grid": "source_images\\battle-grid-01.png",
+    "row": 1,
+    "column": 2
+  },
+  {
+    "id": "battle-07",
+    "image": "assets/scenes/battle-07.webp",
+    "chapter": 4,
+    "paragraph": 19,
+    "title": "Courage under pressure",
+    "grid": "source_images\\battle-grid-01.png",
+    "row": 2,
+    "column": 0
+  },
+  {
+    "id": "battle-08",
+    "image": "assets/scenes/battle-08.webp",
+    "chapter": 4,
+    "paragraph": 21,
+    "title": "The fight in the maze",
+    "grid": "source_images\\battle-grid-01.png",
+    "row": 2,
+    "column": 1
+  },
+  {
+    "id": "battle-09",
+    "image": "assets/scenes/battle-09.webp",
+    "chapter": 4,
+    "paragraph": 23,
+    "title": "Theseus wins",
+    "grid": "source_images\\battle-grid-01.png",
+    "row": 2,
+    "column": 2
+  }
+]
