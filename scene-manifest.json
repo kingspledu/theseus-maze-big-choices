@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1,
+    "grid": 1,
+    "row": 0,
+    "column": 0,
+    "title": "A Boy in Greece",
+    "text": "Long ago, in Greece, there was a boy named Theseus. He lived with his mom, Aethra.",
+    "image": "assets/scenes/scene-01.webp",
+    "native_grid": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "id": 2,
+    "grid": 1,
+    "row": 0,
+    "column": 1,
+    "title": "The Big Rock",
+    "text": "One day, his mom took him to a big rock. His dad had left a gift under it.",
+    "image": "assets/scenes/scene-02.webp",
+    "native_grid": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "id": 3,
+    "grid": 1,
+    "row": 0,
+    "column": 2,
+    "title": "One More Try",
+    "text": "Theseus pushed the rock. He pushed again, and at last the rock moved!",
+    "image": "assets/scenes/scene-03.webp",
+    "native_grid": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "id": 4,
+    "grid": 1,
+    "row": 1,
+    "column": 0,
+    "title": "A Gift from His Father",
+    "text": "Under the rock were a sword and a pair of shoes. They had belonged to his dad, King Aegeus of Athens.",
+    "image": "assets/scenes/scene-04.webp",
+    "native_grid": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "id": 5,
+    "grid": 1,
+    "row": 1,
+    "column": 1,
+    "title": "Ready to Go",
+    "text": "Aethra told Theseus he was ready to meet his dad. Theseus wanted to make his mom proud.",
+    "image": "assets/scenes/scene-05.webp",
+    "native_grid": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "id": 6,
+    "grid": 1,
+    "row": 1,
+    "column": 2,
+    "title": "The Long Road",
+    "text": "Theseus could take a boat to Athens. But he chose the long road, even though it was not safe.",
+    "image": "assets/scenes/scene-06.webp",
+    "native_grid": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "id": 7,
+    "grid": 1,
+    "row": 2,
+    "column": 0,
+    "title": "Courage on the Road",
+    "text": "Bad men hurt people on the road. Theseus was scared, but he fought them and stopped them.",
+    "image": "assets/scenes/scene-07.webp",
+    "native_grid": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "id": 8,
+    "grid": 1,
+    "row": 2,
+    "column": 1,
+    "title": "A Safer Journey",
+    "text": "Theseus helped keep the road safe. At last, he came to Athens.",
+    "image": "assets/scenes/scene-08.webp",
+    "native_grid": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "id": 9,
+    "grid": 1,
+    "row": 2,
+    "column": 2,
+    "title": "Home at Last",
+    "text": "King Aegeus saw the sword and shoes and knew his son. They gave each other a big hug.",
+    "image": "assets/scenes/scene-09.webp",
+    "native_grid": [
+      1254,
+      1254
+    ]
+  }
+]
