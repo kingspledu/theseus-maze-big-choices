@@ -232,5 +232,122 @@
       1249,
       1259
     ]
+  },
+  {
+    "id": 19,
+    "grid": 3,
+    "row": 0,
+    "column": 0,
+    "title": "A Father\u2019s Grief",
+    "text": "King Aegeus saw the black sail and thought his son was dead. In his grief, he jumped into the sea and never came back.",
+    "image": "assets/scenes/scene-19.webp",
+    "native_grid": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "id": 20,
+    "grid": 3,
+    "row": 0,
+    "column": 1,
+    "title": "A Promise Lost",
+    "text": "When Theseus got home, he heard the news and cried. He had won a big fight, but he had lost his dad.",
+    "image": "assets/scenes/scene-20.webp",
+    "native_grid": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "id": 21,
+    "grid": 3,
+    "row": 0,
+    "column": 2,
+    "title": "One Big Team",
+    "text": "Theseus became king and helped bring the towns near Athens together. People could do more when they worked as a team.",
+    "image": "assets/scenes/scene-21.webp",
+    "native_grid": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "id": 22,
+    "grid": 3,
+    "row": 1,
+    "column": 0,
+    "title": "A Very Bad Plan",
+    "text": "Theseus and Pirithous tried to take Persephone away without asking her. Hades caught them in the land of the dead, and they were stuck.",
+    "image": "assets/scenes/scene-22.webp",
+    "native_grid": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "id": 23,
+    "grid": 3,
+    "row": 1,
+    "column": 1,
+    "title": "Help from Heracles",
+    "text": "Later, Heracles came and saved Theseus. Being brave had not made his bad plan right.",
+    "image": "assets/scenes/scene-23.webp",
+    "native_grid": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "id": 24,
+    "grid": 3,
+    "row": 1,
+    "column": 2,
+    "title": "The Lie",
+    "text": "Phaedra told a terrible lie about Hippolytus. Theseus became angry and did not stop to hear his son\u2019s side.",
+    "image": "assets/scenes/scene-24.webp",
+    "native_grid": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "id": 25,
+    "grid": 3,
+    "row": 2,
+    "column": 0,
+    "title": "Too Late to Listen",
+    "text": "Theseus asked Poseidon to punish his son, and Hippolytus died. Later, Theseus learned that his son had done nothing wrong.",
+    "image": "assets/scenes/scene-25.webp",
+    "native_grid": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "id": 26,
+    "grid": 3,
+    "row": 2,
+    "column": 1,
+    "title": "The Last Journey",
+    "text": "As an old man, Theseus left Athens and went to Skyros. There, King Lycomedes pushed him off a cliff, and Theseus died.",
+    "image": "assets/scenes/scene-26.webp",
+    "native_grid": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "id": 27,
+    "grid": 3,
+    "row": 2,
+    "column": 2,
+    "title": "What Makes a Hero?",
+    "text": "Many years later, people brought his bones to Athens and honored him. His story reminds us that a real hero is kind, fair, and true.",
+    "image": "assets/scenes/scene-27.webp",
+    "native_grid": [
+      1254,
+      1254
+    ]
   }
 ]
