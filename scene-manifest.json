@@ -115,5 +115,122 @@
       1254,
       1254
     ]
+  },
+  {
+    "id": 10,
+    "grid": 2,
+    "row": 0,
+    "column": 0,
+    "title": "The Sad Children",
+    "text": "Theseus saw a group of sad kids. They had to go to Crete, where the Minotaur lived in a huge maze.",
+    "image": "assets/scenes/scene-10.webp",
+    "native_grid": [
+      1249,
+      1259
+    ]
+  },
+  {
+    "id": 11,
+    "grid": 2,
+    "row": 0,
+    "column": 1,
+    "title": "A Brave Choice",
+    "text": "The young people sent to the maze did not come home. Theseus felt scared, but he chose to go and help.",
+    "image": "assets/scenes/scene-11.webp",
+    "native_grid": [
+      1249,
+      1259
+    ]
+  },
+  {
+    "id": 12,
+    "grid": 2,
+    "row": 0,
+    "column": 2,
+    "title": "Ariadne\u2019s Gift",
+    "text": "Princess Ariadne was kind and smart. She gave Theseus a ball of red thread to help him find his way out.",
+    "image": "assets/scenes/scene-12.webp",
+    "native_grid": [
+      1249,
+      1259
+    ]
+  },
+  {
+    "id": 13,
+    "grid": 2,
+    "row": 1,
+    "column": 0,
+    "title": "Into the Maze",
+    "text": "Theseus let the thread fall as he walked. The dark path went left, then right, then left again.",
+    "image": "assets/scenes/scene-13.webp",
+    "native_grid": [
+      1249,
+      1259
+    ]
+  },
+  {
+    "id": 14,
+    "grid": 2,
+    "row": 1,
+    "column": 1,
+    "title": "The Minotaur",
+    "text": "Suddenly, the Minotaur was there! Theseus took out his sword and stood tall, even though his hands shook.",
+    "image": "assets/scenes/scene-14.webp",
+    "native_grid": [
+      1249,
+      1259
+    ]
+  },
+  {
+    "id": 15,
+    "grid": 2,
+    "row": 1,
+    "column": 2,
+    "title": "The Way Out",
+    "text": "Theseus won the fight and followed the thread back. He led the kids out of the maze, and they were free.",
+    "image": "assets/scenes/scene-15.webp",
+    "native_grid": [
+      1249,
+      1259
+    ]
+  },
+  {
+    "id": 16,
+    "grid": 2,
+    "row": 2,
+    "column": 0,
+    "title": "Sailing Away",
+    "text": "Theseus and Ariadne sailed away together. They came to an island called Naxos.",
+    "image": "assets/scenes/scene-16.webp",
+    "native_grid": [
+      1249,
+      1259
+    ]
+  },
+  {
+    "id": 17,
+    "grid": 2,
+    "row": 2,
+    "column": 1,
+    "title": "A Friend Left Behind",
+    "text": "Theseus left Ariadne on the island. She had helped save his life, but now she was alone.",
+    "image": "assets/scenes/scene-17.webp",
+    "native_grid": [
+      1249,
+      1259
+    ]
+  },
+  {
+    "id": 18,
+    "grid": 2,
+    "row": 2,
+    "column": 2,
+    "title": "The Forgotten Sail",
+    "text": "Theseus had promised to put up a white sail if he came home safe. But he forgot, and the ship still had its black sail.",
+    "image": "assets/scenes/scene-18.webp",
+    "native_grid": [
+      1249,
+      1259
+    ]
   }
 ]

@@ -1,4 +1,4 @@
-﻿from pathlib import Path
+from pathlib import Path
 from bs4 import BeautifulSoup
 from PIL import Image
 import json,shutil
@@ -40,7 +40,8 @@ for g in range(1,4):
  im=Image.open(p);w,h=im.size
  for i in range(9):
   n=(g-1)*9+i+1;r,c=divmod(i,3)
-  tile=im.crop((round(c*w/3)+2,round(r*h/3)+2,round((c+1)*w/3)-2,round((r+1)*h/3)-2))
+  xs=[0,381,804,w] if g==2 else [0,round(w/3),round(2*w/3),w]; ys=[0,421,827,h] if g==2 else [0,round(h/3),round(2*h/3),h]
+  tile=im.crop((xs[c]+2,ys[r]+2,xs[c+1]-2,ys[r+1]-2))
   out=f'assets/scenes/scene-{n:02d}.webp';tile.save(out,'WEBP',quality=92)
   title,txt=captions[n-1];manifest.append(dict(id=n,grid=g,row=r,column=c,title=title,text=txt,image=out,native_grid=[w,h]))
 article=source.select_one('article');hero=article.select_one('.hero');hero.insert_after(BeautifulSoup('<p><a href="text-reader.html">Read the complete original text</a> · <a href="characters.html">Character Bible</a></p>','html.parser'))
