@@ -1,0 +1,10 @@
+﻿const fs=require('fs'),vm=require('vm');
+const values={},saved={};
+const buttons=[-1,1].map(n=>({dataset:{textStep:String(n)},addEventListener(k,fn){this.click=fn}}));
+const context={document:{documentElement:{style:{setProperty(k,v){values[k]=v}}},querySelectorAll(){return buttons}},localStorage:{getItem(k){return saved[k]},setItem(k,v){saved[k]=v}}};
+vm.runInNewContext(fs.readFileSync('text-size.js','utf8'),context);
+const assert=require('assert');assert.equal(values['--reader-font-size'],'20px');buttons[1].click();assert.equal(values['--reader-font-size'],'22px');buttons[0].click();assert.equal(values['--reader-font-size'],'20px');
+for(let i=0;i<30;i++)buttons[1].click();assert.equal(values['--reader-font-size'],'48px');assert(buttons[1].disabled);
+for(let i=0;i<30;i++)buttons[0].click();assert.equal(values['--reader-font-size'],'16px');assert(buttons[0].disabled);
+buttons[1].click();vm.runInNewContext(fs.readFileSync('text-size.js','utf8'),context);assert.equal(values['--reader-font-size'],'18px');
+console.log('PASS: increase, decrease, limits, and saved-size restoration');
